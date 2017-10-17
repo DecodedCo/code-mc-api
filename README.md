@@ -9,3 +9,7 @@ Use [fixer.io](http://fixer.io/) to configure an API request with a base currenc
 ### Mastercard ATM Locations
 
 Use the [Mastercard ATM Locations API](https://mastercard-locations.herokuapp.com/) to configure an API request centered around a location of interest.
+
+### jQuery?
+
+There are two versions of the code: `script.js` requires jQuery, whereas `script-no-jquery.js` does not.
